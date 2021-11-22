@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>Выполнил Иваненко Дмитрий 8И8А</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@200;600&display=swap" rel="stylesheet">
@@ -65,7 +65,7 @@
     </head>
     <body>
         <?php
-        Debugbar::error('Error!'); ?>
+        Debugbar::error('Error! Ошибки работают'); ?>
         <div class="flex-center position-ref full-height">
             @if (Route::has('login'))
                 <div class="top-right links">
